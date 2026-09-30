@@ -1,17 +1,16 @@
 <!-- ============ HEADER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:1e3a8a,100:06b6d4&height=260&section=header&text=Anwar%20Hossain&fontSize=64&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Digital%20Specialist%20%E2%80%A2%20Founder%20of%20Creatives%20iT&descSize=19&descAlignY=64&descColor=bae6fd" width="100%" alt="Anwar Hossain" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:1e3a8a,100:06b6d4&height=260&section=header&text=Anwar%20Hossain&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Digital%20Specialist&descSize=20&descAlignY=64&descColor=bae6fd" width="100%" alt="Anwar Hossain" />
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=Crafting+fast%2C+modern+web+experiences;Building+SaaS%2C+CRM+%26+ERP+platforms;WordPress+%7C+PHP+%7C+Next.js+%7C+Android;Design+%E2%80%A2+Develop+%E2%80%A2+Rank+%E2%80%A2+Grow;Working+across+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+%26+Dubai+%F0%9F%87%A6%F0%9F%87%AA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=420&height=50&lines=Modern+Web+Experiences;SaaS%2C+CRM+%26+ERP+Platforms;WordPress+%7C+PHP+%7C+Next.js;Android+App+Development;Design+%E2%80%A2+Develop+%E2%80%A2+Grow" alt="Typing animation" />
 </a>
 
 <br/>
 
 <a href="https://creativesit.com"><img src="https://img.shields.io/badge/CREATIVES%20iT-Visit%20Agency-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
 <a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
-<img src="https://img.shields.io/badge/EXPERIENCE-8%2B%20Years-8b5cf6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=020617" />
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge&labelColor=020617" />
 
 </div>
@@ -21,55 +20,30 @@
 <!-- ============ ABOUT ============ -->
 <h2 align="center">✨ About Me</h2>
 
-<div align="center">
+<p align="center">
+  Hi, I'm <b>Anwar Hossain</b> 👋<br/>
+  Founder of <a href="https://creativesit.com"><b>Creatives iT</b></a>, a digital agency<br/>
+  building websites, apps and business systems.
+</p>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<p align="center">
+  <img src="https://img.shields.io/badge/💼_8+_Years_Experience-1e3a8a?style=flat-square&labelColor=020617" />
+  <img src="https://img.shields.io/badge/📍_Bangladesh_🇧🇩-0891b2?style=flat-square&labelColor=020617" />
+  <img src="https://img.shields.io/badge/📍_Dubai_🇦🇪-0891b2?style=flat-square&labelColor=020617" />
+</p>
 
-```yaml
-name:       Anwar Hossain
-role:       Founder @ Creatives iT
-experience: 8+ years (freelance & agency)
-locations:  [Bangladesh 🇧🇩, Dubai 🇦🇪]
-focus:      [Web, Apps, SaaS, Design, SEO]
-status:     Open for exciting projects 🚀
-```
+<p align="center">
+  🌐 Web Design &amp; Development<br/>
+  📱 Android App Development<br/>
+  🧩 CRM, ERP &amp; SSO Systems<br/>
+  🔌 WordPress Themes &amp; Plugins<br/>
+  🎨 Graphics Design &amp; Video Editing<br/>
+  📈 Digital Marketing &amp; SEO
+</p>
 
-</td>
-<td width="40%" valign="top">
-
-- 🏢 Founder of **[Creatives iT](https://creativesit.com)**
-- 💻 Full-stack digital specialist
-- 🧩 Building CRM, ERP & SSO systems
-- 🔌 Creating WordPress plugins & themes
-- 🌍 Serving clients across two countries
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ============ SERVICES ============ -->
-<h2 align="center">🎯 What I Do</h2>
-
-<div align="center">
-
-| 🌐 **Web Development** | 📱 **App Development** | 🎨 **Creative Design** |
-|:---:|:---:|:---:|
-| Custom websites | Native Android apps | Graphics & branding |
-| WordPress themes & plugins | SaaS web platforms | Video editing |
-| Headless WP + Next.js | ERP & business tools | UI / visual identity |
-
-| 📈 **Digital Marketing** | 🔍 **SEO** | ⚙️ **Automation** |
-|:---:|:---:|:---:|
-| Social media campaigns | On-page & technical SEO | Workflow integrations |
-| Paid ads & strategy | Keyword research | Business process tooling |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Open_for_new_projects-22c55e?style=for-the-badge&labelColor=020617" />
+</p>
 
 <br/>
 
@@ -78,14 +52,14 @@ status:     Open for exciting projects 🚀
 
 <div align="center">
 
-<b>Languages & Frameworks</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,react,nextjs,tailwind,nodejs,kotlin&perline=10" /><br/><br/>
+<b>Languages &amp; Frameworks</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,react,nextjs,tailwind,nodejs,kotlin&perline=5" /><br/><br/>
 
-<b>CMS, Databases & Tools</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=wordpress,mysql,androidstudio,git,github,vercel,cloudflare,supabase,postman,figma&perline=10" /><br/><br/>
+<b>CMS, Databases &amp; Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=wordpress,mysql,androidstudio,git,github,vercel,cloudflare,supabase,postman,figma&perline=5" /><br/><br/>
 
-<b>Design & Media</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,xd&perline=10" />
+<b>Design &amp; Media</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,xd&perline=5" />
 
 </div>
 
@@ -96,14 +70,14 @@ status:     Open for exciting projects 🚀
 
 <div align="center">
 
-| | Project | What it does |
-|:---:|:---|:---|
-| 🔐 | **AH5 ID** | OpenID Connect single sign-on provider for a unified login experience |
-| 💬 | **WhatsApp CRM SaaS** | Multi-tenant CRM platform built around WhatsApp conversations |
-| 🏢 | **Office ERP** | Customers, services, invoices, quotations, dues & income/expense tracking |
-| 🖼️ | **Photo Card Plugin** | WordPress plugin that turns posts into beautiful, shareable photo cards |
-| 🌍 | **Portfolio** | Headless WordPress + Next.js site at [anwar.com.bd](https://anwar.com.bd) |
-| 🎨 | **Creatives iT Website** | Custom WordPress theme with a modern design system |
+| Project | Description |
+|:---|:---|
+| 🔐 **AH5 ID** | OpenID Connect single sign-on provider |
+| 💬 **WhatsApp CRM SaaS** | Multi-tenant CRM built around WhatsApp |
+| 🏢 **Office ERP** | Invoices, quotations, dues & income/expense tracking |
+| 🖼️ **Photo Card Plugin** | WordPress plugin that turns posts into photo cards |
+| 🌍 **Portfolio** | Headless WordPress + Next.js at [anwar.com.bd](https://anwar.com.bd) |
+| 🎨 **Creatives iT Site** | Custom WordPress theme with a modern design system |
 
 </div>
 
@@ -114,34 +88,13 @@ status:     Open for exciting projects 🚀
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=16&count_private=true" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" />
-
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=16&count_private=true" />
 <br/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=16" />
-
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" />
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&color=22d3ee&line=1e3a8a&point=ffffff" width="95%" />
-
-</div>
-
+<img width="95%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=16" />
 <br/>
-
-<!-- ============ TROPHIES ============ -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
-<br/>
-
-<!-- ============ QUOTE ============ -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&color=22d3ee&line=1e3a8a&point=ffffff" />
 
 </div>
 
@@ -168,5 +121,11 @@ status:     Open for exciting projects 🚀
 
 </div>
 
+<br/>
+
 <!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:020617&height=130&section=footer" width="100%" alt="footer" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e3a8a,100:06b6d4&height=70&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" alt="Thanks for visiting" />
+
+</div>
