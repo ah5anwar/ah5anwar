@@ -1,6 +1,4 @@
 <!-- ============ HEADER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:1e3a8a,100:06b6d4&height=260&section=header&text=Anwar%20Hossain&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Digital%20Specialist&descSize=20&descAlignY=64&descColor=bae6fd" width="100%" alt="Anwar Hossain" />
-
 <div align="center">
 
 <a href="https://github.com/ah5anwar">
@@ -10,12 +8,10 @@
 <br/>
 
 <a href="https://creativesit.com"><img src="https://img.shields.io/badge/CREATIVES%20iT-Visit%20Agency-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
+
 <a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge&labelColor=020617" />
 
 </div>
-
-<br/>
 
 <!-- ============ ABOUT ============ -->
 <h2 align="center">✨ About Me</h2>
