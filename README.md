@@ -1,4 +1,3 @@
-<!-- ============ HEADER ============ -->
 <!-- ============ ABOUT ============ -->
 <h2 align="center">✨ About Me</h2>
 
@@ -39,8 +38,6 @@
 <a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
 </div>
 
-<br/>
-
 <!-- ============ TECH STACK ============ -->
 <h2 align="center">🧰 Tech Stack</h2>
 
@@ -56,8 +53,6 @@
 <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,xd&perline=5" />
 
 </div>
-
-<br/>
 
 <!-- ============ PROJECTS ============ -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -75,8 +70,6 @@
 
 </div>
 
-<br/>
-
 <!-- ============ STATS ============ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -89,8 +82,6 @@
 <img width="95%" src="https://streak-stats.demolab.com/?user=ah5anwar&theme=radical&hide_border=true&border_radius=16" />
 
 </div>
-
-<br/>
 
 <!-- ============ CONNECT ============ -->
 <h2 align="center">🤝 Let's Connect</h2>
