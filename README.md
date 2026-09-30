@@ -1,8 +1,10 @@
 <!-- ============ HEADER ============ -->
 
 <p align="center">
-  <img src="https://anwar.com.bd/wp-content/uploads/2026/09/Github-header.jpg" width="fit" alt="Anwar Hossain" />
+  <img src="https://anwar.com.bd/wp-content/uploads/2026/09/Github-header.jpg" width="auto" alt="Anwar Hossain" />
 </p>
+
+<br/>
 
 <!-- ============ ABOUT ============ -->
 <h2 align="center">✨ About Me</h2>
