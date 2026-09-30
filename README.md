@@ -114,5 +114,4 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e3a8a,100:06b6d4&height=70&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" alt="Thanks for visiting" />
-
 </div>
