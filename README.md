@@ -38,7 +38,9 @@
 <a href="https://creativesit.com"><img src="https://img.shields.io/badge/CREATIVES%20iT-Visit%20Agency-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
 <a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
 </div>
+
 <br/>
+
 <!-- ============ TECH STACK ============ -->
 <h2 align="center">🧰 Tech Stack</h2>
 
@@ -80,13 +82,13 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=16&count_private=true" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=ah5anwar&show_icons=true&theme=radical&hide_border=true&border_radius=16&count_private=true" />
 <br/>
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah5anwar&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" />
 <br/>
-<img width="95%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=16" />
+<img width="95%" src="https://streak-stats.demolab.com/?user=ah5anwar&theme=radical&hide_border=true&border_radius=16" />
 <br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&color=22d3ee&line=1e3a8a&point=ffffff" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ah5anwar&theme=react-dark&hide_border=true&area=true&color=22d3ee&line=1e3a8a&point=ffffff" />
 
 </div>
 
@@ -99,15 +101,11 @@
 
 <a href="https://creativesit.com"><img src="https://img.shields.io/badge/Website-creativesit.com-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
 <a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/Portfolio-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
+<a href="https://facebook.com/ah5anwar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://wa.me/+971566214870"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:ah5.anwarhossain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<!-- Add your own links, then remove the comment markers:
-<a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://facebook.com/YOUR_PAGE"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
--->
-
-<br/><br/>
+<br/>
 
 <i>💡 Have a project in mind? Let's build something remarkable together.</i>
 
