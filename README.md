@@ -1,9 +1,9 @@
 <!-- ============ HEADER ============ -->
-<img src="https://anwar.com.bd/wp-content/uploads/2026/08/ah5-avatar-1-1.png" width="100%" alt="Anwar Hossain" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:1e3a8a,100:06b6d4&height=260&section=header&text=Anwar%20Hossain&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Digital%20Specialist&descSize=20&descAlignY=64&descColor=bae6fd" width="100%" alt="Anwar Hossain" />
 
 <div align="center">
 
-<a href="https://github.com/ah5anwar">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=420&height=50&lines=Modern+Web+Experiences;SaaS%2C+CRM+%26+ERP+Platforms;WordPress+%7C+PHP+%7C+Next.js;Android+App+Development;Design+%E2%80%A2+Develop+%E2%80%A2+Grow" alt="Typing animation" />
 </a>
 
@@ -19,6 +19,10 @@
 
 <!-- ============ ABOUT ============ -->
 <h2 align="center">✨ About Me</h2>
+
+<p align="center">
+  <img src="https://images.weserv.nl/?url=anwar.com.bd/wp-content/uploads/2026/08/ah5-avatar-1-1.png&w=220&h=220&fit=cover&mask=circle" width="140" alt="Anwar Hossain" />
+</p>
 
 <p align="center">
   Hi, I'm <b>Anwar Hossain</b> 👋<br/>
