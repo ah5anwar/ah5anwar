@@ -1,18 +1,4 @@
 <!-- ============ HEADER ============ -->
-<div align="center">
-
-<a href="https://github.com/ah5anwar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=420&height=50&lines=Modern+Web+Experiences;SaaS%2C+CRM+%26+ERP+Platforms;WordPress+%7C+PHP+%7C+Next.js;Android+App+Development;Design+%E2%80%A2+Develop+%E2%80%A2+Grow" alt="Typing animation" />
-</a>
-
-<br/>
-
-<a href="https://creativesit.com"><img src="https://img.shields.io/badge/CREATIVES%20iT-Visit%20Agency-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
-
-<a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
-
-</div>
-
 <!-- ============ ABOUT ============ -->
 <h2 align="center">✨ About Me</h2>
 
@@ -41,9 +27,20 @@
   📈 Digital Marketing &amp; SEO
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Open_for_new_projects-22c55e?style=for-the-badge&labelColor=020617" />
-</p>
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ah5anwar">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=420&height=50&lines=Modern+Web+Experiences;SaaS%2C+CRM+%26+ERP+Platforms;WordPress+%7C+PHP+%7C+Next.js;Android+App+Development;Design+%E2%80%A2+Develop+%E2%80%A2+Grow" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://creativesit.com"><img src="https://img.shields.io/badge/CREATIVES%20iT-Visit%20Agency-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
+<a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
+
+</div>
 
 <br/>
 
