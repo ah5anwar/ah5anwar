@@ -87,8 +87,6 @@
 <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah5anwar&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" />
 <br/>
 <img width="95%" src="https://streak-stats.demolab.com/?user=ah5anwar&theme=radical&hide_border=true&border_radius=16" />
-<br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ah5anwar&theme=react-dark&hide_border=true&area=true&color=22d3ee&line=1e3a8a&point=ffffff" />
 
 </div>
 
