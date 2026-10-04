@@ -43,7 +43,7 @@
 <br/>
 
 <a href="https://creativesit.com"><img src="https://img.shields.io/badge/CREATIVES%20iT-Visit%20Agency-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
-<a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-
+<a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
 </div>
 
 <!-- ============ TECH STACK ============ -->
