@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/💼_8+_Years_Experience-1e3a8a?style=flat-square&labelColor=020617" />
   <img src="https://img.shields.io/badge/📍_Bangladesh_🇧🇩-0891b2?style=flat-square&labelColor=020617" />
   <img src="https://img.shields.io/badge/📍_Dubai_🇦🇪-0891b2?style=flat-square&labelColor=020617" />
+  ![](https://komarev.com/ghpvc/?username=ah5anwar&style=for-the-badge)
 </p>
 
 <p align="center">
