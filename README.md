@@ -44,6 +44,7 @@
 
 <a href="https://creativesit.com"><img src="https://img.shields.io/badge/CREATIVES%20iT-Visit%20Agency-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
 <a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/PORTFOLIO-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
+![ah5anwar](https://komarev.com/ghpvc/?username=ah5anwar&color=green)
 </div>
 
 <!-- ============ TECH STACK ============ -->
@@ -109,8 +110,6 @@
 </div>
 
 <br/>
-
-![aaa](https://komarev.com/ghpvc/?username=ah5anwar&color=green)
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
