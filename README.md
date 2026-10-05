@@ -99,7 +99,7 @@
 <a href="https://creativesit.com"><img src="https://img.shields.io/badge/Website-creativesit.com-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
 <a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/Portfolio-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
 <a href="https://facebook.com/ah5anwar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://wa.me/+971566214870"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/+8801746982918"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:ah5.anwarhossain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
