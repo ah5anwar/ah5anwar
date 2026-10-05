@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 
 <p align="center">
-  <img src="https://anwar.com.bd/wp-content/uploads/2026/09/Github-header.jpg" width="auto" alt="Anwar Hossain" />
+  <img src="https://anwar.com.bd/wp-content/uploads/2026/10/anwar-scaled.jpg" width="auto" alt="Anwar Hossain" />
 </p>
 
 <br/>
