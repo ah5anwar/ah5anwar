@@ -80,9 +80,6 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=ah5anwar&show_icons=true&theme=radical&hide_border=true&border_radius=16&count_private=true" />
-<br/>
 <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah5anwar&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" />
 <br/>
 <img width="95%" src="https://streak-stats.demolab.com/?user=ah5anwar&theme=radical&hide_border=true&border_radius=16" />
