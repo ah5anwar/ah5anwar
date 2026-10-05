@@ -4,8 +4,6 @@
   <img src="https://anwar.com.bd/wp-content/uploads/2026/10/anwar-scaled.jpg" width="auto" alt="Anwar Hossain" />
 </p>
 
-<br/>
-
 <!-- ============ ABOUT ============ -->
 <h2 align="center">✨ About Me</h2>
 
