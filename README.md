@@ -59,22 +59,6 @@
 
 </div>
 
-<!-- ============ PROJECTS ============ -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-| Project | Description |
-|:---|:---|
-| 🔐 **AH5 ID** | OpenID Connect single sign-on provider |
-| 💬 **WhatsApp CRM SaaS** | Multi-tenant CRM built around WhatsApp |
-| 🏢 **Office ERP** | Invoices, quotations, dues & income/expense tracking |
-| 🖼️ **Photo Card Plugin** | WordPress plugin that turns posts into photo cards |
-| 🌍 **Portfolio** | Headless WordPress + Next.js at [anwar.com.bd](https://anwar.com.bd) |
-| 🎨 **Creatives iT Site** | Custom WordPress theme with a modern design system |
-
-</div>
-
 <!-- ============ STATS ============ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
