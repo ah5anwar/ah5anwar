@@ -1,22 +1,17 @@
- 
-<!-- ========================================================= -->
-<!--                    AH5 LUXURY PROFILE                     -->
-<!--                  ANWAR HOSSAIN | GITHUB                    -->
-<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:164e63,100:06b6d4&height=230&section=header&text=AH5&fontSize=85&fontColor=ffffff&fontAlignY=38&desc=ANWAR%20HOSSAIN%20%7C%20DEVELOPER%20%26%20FOUNDER&descSize=15&descAlignY=59&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:164e63,100:06b6d4&height=230&section=header&text=AH5&fontSize=85&fontColor=ffffff&fontAlignY=38&desc=ANWAR%20HOSSAIN%20%7C%20DEVELOPER%20%26%20FOUNDER&descSize=15&descAlignY=59&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://images.weserv.nl/?url=anwar.com.bd/wp-content/uploads/2026/08/ah5-avatar-1-1.png&w=200&h=200&fit=cover&mask=circle" width="145" alt="AH5 - Anwar Hossain"/>
+<img src="https://images.weserv.nl/?url=anwar.com.bd/wp-content/uploads/2026/08/ah5-avatar-1-1.png&w=200&h=200&fit=cover&mask=circle" width="145" alt="AH5"/>
 
 # ANWAR HOSSAIN
 
 ### Founder · Full-Stack Developer · Technology Entrepreneur
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&repeat=true&width=550&height=35&lines=Engineering+Digital+Experiences.;Building+Scalable+Business+Solutions.;Turning+Ideas+Into+Technology.;Design.+Develop.+Innovate.+Grow." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=550&height=35&lines=Engineering+Digital+Experiences;Building+Scalable+Business+Solutions;Turning+Ideas+Into+Technology;Design.+Develop.+Innovate.+Grow."/>
 
 <br/>
 
@@ -33,7 +28,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/EXPERIENCE-8%2B%20YEARS-164e63?style=flat-square"/>
-<img src="https://img.shields.io/badge/BASED%20IN-DUBAI%20%7C%20BANGLADESH-164e63?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-DUBAI%20%7C%20BANGLADESH-164e63?style=flat-square"/>
 <img src="https://img.shields.io/badge/BRAND-AH5-164e63?style=flat-square"/>
 
 </div>
@@ -44,18 +39,18 @@
 
 I'm **Anwar Hossain**, a technology enthusiast, entrepreneur and full-stack developer passionate about transforming ideas into powerful digital products.
 
-As the Founder of **[Creatives iT](https://creativesit.com)**, I work on creating modern websites, scalable applications and intelligent business solutions that help organizations grow.
+As the Founder of **[Creatives iT](https://creativesit.com)**, I build modern websites, scalable applications and intelligent business solutions that help organizations grow.
 
-My approach combines technology, creativity and business strategy to build meaningful digital experiences.
+My approach combines technology, creativity and business strategy to create meaningful digital experiences.
 
-**What drives me**
-
-- Building modern and scalable web applications.
-- Developing intelligent CRM & ERP ecosystems.
-- Creating powerful WordPress solutions.
-- Engineering Android applications.
-- Exploring innovative technologies.
-- Turning complex business challenges into simple solutions.
+- 💼 8+ Years of Professional Experience
+- 🌐 Web Design & Full-Stack Development
+- 📱 Android Application Development
+- 🧩 CRM, ERP & SaaS Platforms
+- 🔌 WordPress Themes & Plugins
+- 🎨 UI/UX & Graphic Design
+- 📈 SEO & Digital Marketing
+- 🌍 Bangladesh & Dubai
 
 > "Technology is not just about writing code. It's about creating possibilities."
 
@@ -73,7 +68,7 @@ My approach combines technology, creativity and business strategy to build meani
 - PHP & Next.js Applications
 - React Development
 - REST API Integration
-- Responsive Web Experiences
+- Responsive Websites
 
 </td>
 <td width="50%" valign="top">
@@ -95,16 +90,15 @@ My approach combines technology, creativity and business strategy to build meani
 
 - Android Applications
 - Kotlin Development
-- Mobile API Integration
-- Application UI/UX
+- API Integration
+- Mobile UI/UX
 
 </td>
 <td width="50%" valign="top">
 
 ### 04 / Creative Technology
 
-- WordPress Themes & Plugins
-- UI/UX Design
+- WordPress Development
 - Graphic Design
 - Video Editing
 - SEO & Digital Marketing
@@ -163,6 +157,16 @@ My approach combines technology, creativity and business strategy to build meani
 
 ---
 
+## ◈ GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ah5anwar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+
+</div>
+
+---
+
 ## ◈ DIGITAL PRESENCE
 
 <div align="center">
@@ -186,12 +190,15 @@ My approach combines technology, creativity and business strategy to build meani
 <a href="https://github.com/ah5anwar">
 <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 <a href="https://facebook.com/ah5anwar">
 <img src="https://img.shields.io/badge/FACEBOOK-020617?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
 </a>
+
 <a href="https://wa.me/8801746982918">
 <img src="https://img.shields.io/badge/WHATSAPP-020617?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
 </a>
+
 <a href="mailto:ah5.anwarhossain@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -200,7 +207,7 @@ My approach combines technology, creativity and business strategy to build meani
 
 ### HAVE AN IDEA? LET'S BUILD SOMETHING EXTRAORDINARY.
 
-**Design. Develop. Innovate. Grow.**
+**DESIGN · DEVELOP · INNOVATE · GROW**
 
 <br/>
 
@@ -208,10 +215,6 @@ My approach combines technology, creativity and business strategy to build meani
 
 <sub>© ANWAR HOSSAIN · AH5 · ALL RIGHTS RESERVED</sub>
 
-<sub>Crafted with passion, precision & code.</sub>
+<sub>Crafted with passion, precision & code ❤️</sub>
 
 </div>
-
-<!-- ========================================================= -->
-<!--                       END OF AH5                          -->
-<!-- ========================================================= -->
