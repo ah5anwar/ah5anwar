@@ -1,216 +1,108 @@
-
-<!-- ====================================================== -->
-<!--                  AH5 | GITHUB PROFILE                  -->
-<!-- ====================================================== -->
-
+<!-- ============ HEADER BANNER ============ -->
 <div align="center">
-
-<img src="https://anwar.com.bd/wp-content/uploads/2026/10/anwar-scaled.jpg" width="auto" alt="Anwar Hossain" />
-
-<img src="https://images.weserv.nl/?url=anwar.com.bd/wp-content/uploads/2026/08/ah5-avatar-1-1.png&w=180&h=180&fit=cover&mask=circle" width="150" alt="Anwar Hossain"/>
-
-# Hi, I'm Anwar Hossain 👋
-
-### Building Digital Experiences That Drive Businesses Forward.
-
-<p>
-  <a href="https://creativesit.com">
-    <img src="https://img.shields.io/badge/Founder-Creatives%20iT-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-06b6d4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Dubai%20%7C%20Bangladesh-0891b2?style=for-the-badge"/>
-</p>
-
-<a href="https://anwar.com.bd">Portfolio</a> •
-<a href="https://creativesit.com">Agency</a> •
-<a href="mailto:ah5.anwarhossain@gmail.com">Contact Me</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=55&lines=Full-Stack+Web+Developer;SaaS+%7C+CRM+%7C+ERP+Solutions;WordPress+Theme+%26+Plugin+Developer;Android+Application+Developer;Turning+Ideas+Into+Digital+Products" alt="Typing SVG"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:06b6d4&height=230&section=header&text=Anwar%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Creatives%20iT%20%E2%80%A2%20Full-Stack%20Digital%20Specialist&descSize=17&descAlignY=60&descColor=a5f3fc" width="100%" alt="Anwar Hossain" />
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/ah5anwar">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=50&lines=Modern+Web+Experiences;SaaS%2C+CRM+%26+ERP+Platforms;WordPress+%7C+PHP+%7C+Next.js;Android+App+Development;Design+%E2%80%A2+Develop+%E2%80%A2+Grow" alt="Typing animation" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/💼_8+_Years_Experience-1e3a8a?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/📍_Bangladesh_🇧🇩-0891b2?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/📍_Dubai_🇦🇪-0891b2?style=for-the-badge&labelColor=020617" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ah5anwar&label=Profile%20Views&color=06b6d4&style=for-the-badge&labelColor=020617" />
+  <a href="https://github.com/ah5anwar?tab=followers"><img src="https://img.shields.io/github/followers/ah5anwar?label=Followers&style=for-the-badge&color=1e3a8a&labelColor=020617&logo=github" /></a>
+</div>
 
-## 🚀 About Me
+<br/>
 
-I'm **Anwar Hossain**, a passionate developer and entrepreneur focused on building modern digital products, scalable business systems, and innovative web solutions.
+<!-- ============ ABOUT ============ -->
+<h2 align="center">✨ About Me</h2>
 
-As the Founder of **[Creatives iT](https://creativesit.com)**, I help businesses transform their ideas into powerful digital experiences.
-
-- 💼 8+ Years of Professional Experience
-- 🌐 Specialized in Web Design & Development
-- 📱 Building Android Applications
-- 🧩 Developing CRM, ERP & Business Automation Systems
-- 🔌 Creating WordPress Themes & Plugins
-- 🎨 UI/UX, Graphic Design & Video Editing
-- 📈 SEO & Digital Marketing
-- 🌍 Working across Bangladesh & Dubai
-
-**My Mission:** Create meaningful technology that helps businesses grow.
-
----
-
-## 💻 What I Do
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-### 🌐 Web Development
-- Custom Website Development
-- Full-Stack Applications
-- SaaS Platforms
-- Next.js Applications
-- API Development
-
+<td align="center" width="260">
+  <img src="https://images.weserv.nl/?url=anwar.com.bd/wp-content/uploads/2026/08/ah5-avatar-1-1.png&w=220&h=220&fit=cover&mask=circle" width="170" alt="Anwar Hossain" /><br/><br/>
+  <b>Anwar Hossain</b><br/>
+  <sub>Digital Specialist • Founder</sub>
 </td>
-<td width="50%">
+<td width="520">
 
-### 🧩 Business Solutions
-- CRM & ERP Systems
-- Business Automation
-- SSO & Authentication
-- Custom Dashboards
-- Management Systems
+👋 Hi, I'm **Anwar** — founder of [**Creatives iT**](https://creativesit.com), a digital agency building websites, apps and business systems.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+🚀 I turn ideas into fast, clean and scalable products — from WordPress themes to full SaaS platforms.
 
-### 📱 App Development
-- Android Applications
-- Kotlin Development
-- API Integration
-- Mobile UI/UX
+🌍 Working across **Bangladesh** and **Dubai**, helping businesses grow online.
 
-</td>
-<td width="50%">
-
-### 🎨 Creative & Marketing
-- WordPress Development
-- Graphic Design
-- Video Editing
-- SEO & Digital Marketing
+💡 *Have a project in mind? Let's build something remarkable together.*
 
 </td>
 </tr>
 </table>
 
----
+<!-- ============ WHAT I DO ============ -->
+<h2 align="center">🛠️ What I Do</h2>
 
-## 🛠️ Technology Stack
+<table align="center">
+<tr>
+<td align="center" width="200"><h3>🌐</h3><b>Web Design &amp; Development</b><br/><sub>Fast, modern, responsive websites</sub></td>
+<td align="center" width="200"><h3>📱</h3><b>Android Apps</b><br/><sub>Native &amp; hybrid mobile apps</sub></td>
+<td align="center" width="200"><h3>🧩</h3><b>CRM, ERP &amp; SSO</b><br/><sub>Custom business systems</sub></td>
+</tr>
+<tr>
+<td align="center"><h3>🔌</h3><b>WordPress</b><br/><sub>Custom themes &amp; plugins</sub></td>
+<td align="center"><h3>🎨</h3><b>Graphics &amp; Video</b><br/><sub>Branding, design, editing</sub></td>
+<td align="center"><h3>📈</h3><b>Digital Marketing &amp; SEO</b><br/><sub>Traffic that converts</sub></td>
+</tr>
+</table>
 
-### Languages & Frameworks
+<!-- ============ TECH STACK ============ -->
+<h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,react,nextjs,tailwind,nodejs,kotlin&perline=5" />
+<b>Languages &amp; Frameworks</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,react,nextjs,tailwind,nodejs,kotlin&perline=10" /><br/><br/>
+
+<b>CMS, Databases &amp; Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=wordpress,mysql,androidstudio,git,github,vercel,cloudflare,supabase,postman,figma&perline=10" /><br/><br/>
+
+<b>Design &amp; Media</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,xd&perline=10" />
 
 </div>
 
-### CMS, Database & Development Tools
+<!-- ============ STATS ============ -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=wordpress,mysql,androidstudio,git,github,vercel,cloudflare,supabase,postman,figma&perline=5" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ah5anwar&show_icons=true&theme=radical&hide_border=true&border_radius=16&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah5anwar&layout=compact&theme=radical&hide_border=true&border_radius=16" />
+  <br/><br/>
+  <img width="95%" src="https://streak-stats.demolab.com/?user=ah5anwar&theme=radical&hide_border=true&border_radius=16" />
+  <br/><br/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ah5anwar&bg_color=020617&color=22d3ee&line=1e3a8a&point=06b6d4&area=true&area_color=0891b2&hide_border=true" />
 </div>
 
-### Design & Creative Tools
+<!-- ============ CONNECT ============ -->
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,xd&perline=5" />
+<a href="https://creativesit.com"><img src="https://img.shields.io/badge/Website-creativesit.com-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" /></a>
+<a href="https://anwar.com.bd"><img src="https://img.shields.io/badge/Portfolio-anwar.com.bd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" /></a>
+<br/>
+<a href="https://facebook.com/ah5anwar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://wa.me/+8801746982918"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:ah5.anwarhossain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ah5anwar">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ah5anwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah5anwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</a>
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=ah5anwar&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ah5anwar&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
+<!-- ============ FOOTER ============ -->
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ah5anwar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
-
-</div>
-
----
-
-## 🌟 My Digital Presence
-
-<div align="center">
-
-<a href="https://creativesit.com">
-<img src="https://img.shields.io/badge/CREATIVES%20iT-Visit%20Agency-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://anwar.com.bd">
-<img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-Explore-06b6d4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/ah5anwar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/ah5anwar">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/8801746982918">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="mailto:ah5.anwarhossain@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 💡 Have an idea? Let's turn it into reality!
-
-**Design • Develop • Innovate • Grow**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:020617&height=120&section=footer" width="100%"/>
-
-<sub>© Anwar Hossain | Crafted with passion and code ❤️</sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:020617&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" alt="Thanks for visiting" />
 </div>
