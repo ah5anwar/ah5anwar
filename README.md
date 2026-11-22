@@ -106,15 +106,6 @@ I'm the founder of [**Creatives iT**](https://creativesit.com), a digital agency
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ah5anwar&bg_color=020617&color=22d3ee&line=1e3a8a&point=06b6d4&area=true&area_color=0891b2&hide_border=true&title_color=22d3ee" />
 </div>
 
-<!-- ============ TROPHIES ============ -->
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ah5anwar&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <!-- ============ CONNECT ============ -->
 <h2 align="center">🤝 Let's Work Together</h2>
 
