@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:06b6d4&height=220&section=header&text=ANWAR%20HOSSAIN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20%7C%20Tech%20Entrepreneur&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://anwar.com.bd/wp-content/uploads/2026/10/anwar-scaled.jpg" width="auto" alt="Anwar Hossain" />
 
 <img src="https://images.weserv.nl/?url=anwar.com.bd/wp-content/uploads/2026/08/ah5-avatar-1-1.png&w=180&h=180&fit=cover&mask=circle" width="150" alt="Anwar Hossain"/>
 
