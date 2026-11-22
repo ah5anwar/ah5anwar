@@ -131,4 +131,6 @@ I'm the founder of [**Creatives iT**](https://creativesit.com), a digital agency
 <!-- ============ FOOTER ============ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:020617&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%" alt="Thanks for visiting" />
+<sub>© Anwar Hossain | Crafted with passion and code ❤️</sub>
+  
 </div>
