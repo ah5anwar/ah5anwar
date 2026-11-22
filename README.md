@@ -1,24 +1,22 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:1e3a8a,100:06b6d4&height=260&section=header&text=Anwar%20Hossain&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Founder%20%40%20Creatives%20iT%20%E2%80%A2%20Full-Stack%20Digital%20Specialist&descSize=18&descAlignY=64&descColor=a5f3fc" width="100%" alt="Anwar Hossain" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:06b6d4&height=230&section=header&text=Anwar%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Creatives%20iT%20%E2%80%A2%20Full-Stack%20Digital%20Specialist&descSize=17&descAlignY=60&descColor=a5f3fc" width="100%" alt="Anwar Hossain" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ah5anwar">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=640&height=55&lines=%3E+Building+Modern+Web+Experiences;%3E+SaaS%2C+CRM+%26+ERP+Platforms;%3E+WordPress+%7C+PHP+%7C+Next.js;%3E+Android+App+Development;%3E+Design+%E2%80%A2+Develop+%E2%80%A2+Grow" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=50&lines=Modern+Web+Experiences;SaaS%2C+CRM+%26+ERP+Platforms;WordPress+%7C+PHP+%7C+Next.js;Android+App+Development;Design+%E2%80%A2+Develop+%E2%80%A2+Grow" alt="Typing animation" />
   </a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/💼_8+_Years-Experience-1e3a8a?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/📍_Bangladesh-🇧🇩-0891b2?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/📍_Dubai-🇦🇪-0891b2?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/🟢_Open_for-Projects-22d3ee?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/💼_8+_Years_Experience-1e3a8a?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/📍_Bangladesh_🇧🇩-0891b2?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/📍_Dubai_🇦🇪-0891b2?style=for-the-badge&labelColor=020617" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=ah5anwar&label=Profile%20Views&color=06b6d4&style=for-the-badge&labelColor=020617" />
   <a href="https://github.com/ah5anwar?tab=followers"><img src="https://img.shields.io/github/followers/ah5anwar?label=Followers&style=for-the-badge&color=1e3a8a&labelColor=020617&logo=github" /></a>
-  <a href="https://github.com/ah5anwar?tab=repositories"><img src="https://img.shields.io/github/stars/ah5anwar?label=Stars&style=for-the-badge&color=06b6d4&labelColor=020617&logo=github" /></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
 
 <!-- ============ ABOUT ============ -->
 <h2 align="center">✨ About Me</h2>
