@@ -1,6 +1,8 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:06b6d4&height=230&section=header&text=Anwar%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20%40%20Creatives%20iT%20%E2%80%A2%20Full-Stack%20Digital%20Specialist&descSize=17&descAlignY=60&descColor=a5f3fc" width="100%" alt="Anwar Hossain" />
+<p align="center">
+  <img src="https://anwar.com.bd/wp-content/uploads/2026/10/anwar-scaled.jpg" width="auto" alt="Anwar Hossain" />
+</p>
 </div>
 
 <div align="center">
