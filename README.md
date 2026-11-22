@@ -94,22 +94,6 @@ I'm the founder of [**Creatives iT**](https://creativesit.com), a digital agency
 
 </div>
 
-<!-- ============ SKILL LEVEL ============ -->
-<h2 align="center">🎯 Skill Level</h2>
-
-<div align="center">
-<table>
-<tr><td><b>Web Development</b></td><td><img src="https://geps.dev/progress/95?dangerColor=06b6d4&warningColor=06b6d4&successColor=06b6d4" /></td></tr>
-<tr><td><b>WordPress</b></td><td><img src="https://geps.dev/progress/95?dangerColor=1e3a8a&warningColor=1e3a8a&successColor=1e3a8a" /></td></tr>
-<tr><td><b>PHP / MySQL</b></td><td><img src="https://geps.dev/progress/90?dangerColor=06b6d4&warningColor=06b6d4&successColor=06b6d4" /></td></tr>
-<tr><td><b>UI / Graphics Design</b></td><td><img src="https://geps.dev/progress/90?dangerColor=1e3a8a&warningColor=1e3a8a&successColor=1e3a8a" /></td></tr>
-<tr><td><b>SEO &amp; Marketing</b></td><td><img src="https://geps.dev/progress/88?dangerColor=06b6d4&warningColor=06b6d4&successColor=06b6d4" /></td></tr>
-<tr><td><b>Android Development</b></td><td><img src="https://geps.dev/progress/80?dangerColor=1e3a8a&warningColor=1e3a8a&successColor=1e3a8a" /></td></tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <!-- ============ STATS ============ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
